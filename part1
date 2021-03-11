@@ -1,4 +1,4 @@
-wget https://www.ncbi.nlm.nih.gov/sra/SRX2896360
-wget https://www.ncbi.nlm.nih.gov/sra/SRX2896363
-wget https://www.ncbi.nlm.nih.gov/sra/SRX2896374
-wget https://www.ncbi.nlm.nih.gov/sra/SRX2896375
+wget http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=dload&run_list=SRR5660030&format=fastq
+wget http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=dload&run_list=SRR5660033&format=fastq
+wget http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=dload&run_list=SRR5660044&format=fastq
+wget http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=dload&run_list=SRR5660045&format=fastq
